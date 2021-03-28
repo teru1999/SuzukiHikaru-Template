@@ -1,11 +1,14 @@
 # SuzukiHikaru-Template
 鈴木 輝が集めた情報や独自のテンプレートを取り扱います。
 
+## Code
+* html
+* css
+
 ## Issues
-### issueの書き方
-* 提案
-* タスク
-* バグ
+* 提案の書き方
+* タスクの書き方
+* バグの書き方
 
 ## Wiki
 * 基本操作まとめ（Git）
